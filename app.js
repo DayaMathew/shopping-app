@@ -59,7 +59,13 @@ async function initializeStorage() {
                 description: 'Ergonomic design with precision tracking and 12-month battery',
                 image: 'images/wireless-mouse.jpeg'
             },
-
+             {
+                id: 5,
+                name: 'laptop',
+                price: 100.99,
+                description: 'user -friendly',
+                image: 'images/laptop.jpeg'
+            },
         ]));
     }
 
@@ -579,3 +585,4 @@ async function initPage() {
 
 // Run on page load
 document.addEventListener('DOMContentLoaded', initPage);
+
