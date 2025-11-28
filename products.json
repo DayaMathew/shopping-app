@@ -34,51 +34,12 @@
         },
         {
             "id": 5,
-            "name": "Portable Charger",
-            "details": "20000mAh power bank with dual USB ports and fast charging",
+            "name": "Umberalla",
+            "details": "Transparent umberlla",
             "price": 39.99,
-            "image": "https://via.placeholder.com/300x200?text=Portable+Charger",
-            "category": "Electronics"
+            "image": "https://www.ubuy.co.in/product/BAEU98N8W-transparent-clear-umbrella-umbrella-blue?srsltid=AfmBOook4nptesBrpXWgpXjGPEaC92P1wKYNwYQy-bNxclef0KQcX704#gallery-2",
+            "category": "Rainy Season"
         },
-        {
-            "id": 6,
-            "name": "Bluetooth Speaker",
-            "details": "Waterproof speaker with 360-degree sound and 12-hour battery",
-            "price": 49.99,
-            "image": "https://via.placeholder.com/300x200?text=Bluetooth+Speaker",
-            "category": "Electronics"
-        },
-        {
-            "id": 7,
-            "name": "Phone Stand",
-            "details": "Adjustable phone holder for desk with non-slip pads",
-            "price": 12.99,
-            "image": "https://via.placeholder.com/300x200?text=Phone+Stand",
-            "category": "Accessories"
-        },
-        {
-            "id": 8,
-            "name": "Screen Protector",
-            "details": "Tempered glass screen protector for most smartphones",
-            "price": 9.99,
-            "image": "https://via.placeholder.com/300x200?text=Screen+Protector",
-            "category": "Accessories"
-        },
-        {
-            "id": 9,
-            "name": "USB Hub",
-            "details": "7-port USB 3.0 hub with individual switches and power adapter",
-            "price": 34.99,
-            "image": "https://via.placeholder.com/300x200?text=USB+Hub",
-            "category": "Electronics"
-        },
-        {
-            "id": 10,
-            "name": "Laptop Stand",
-            "details": "Aluminum adjustable laptop stand for better ergonomics",
-            "price": 44.99,
-            "image": "https://via.placeholder.com/300x200?text=Laptop+Stand",
-            "category": "Accessories"
-        }
     ]
+
 }
