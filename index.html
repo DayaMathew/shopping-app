@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shopping Website - Home</title>
+
+    <!-- Bootstrap -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Icons -->
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <!-- Navbar -->
+    <nav class="navbar navbar-expand-lg navbar-light bg-white shadow-sm">
+        <div class="container">
+            <a class="navbar-brand fw-bold" href="index.html">ShopHome</a>
+
+            <button class="navbar-toggler" data-bs-toggle="collapse" data-bs-target="#navMenu">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+
+            <div class="collapse navbar-collapse" id="navMenu">
+                <ul class="navbar-nav ms-auto" id="navLinks">
+                    <!-- Filled dynamically by app.js -->
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <header class="py-5 bg-light text-center">
+        <div class="container">
+            <h1 class="fw-bold display-5">Welcome to ShopHome</h1>
+            <p class="lead">Your modern online shopping destination</p>
+            <a href="products.html" class="btn material-btn mt-3">Start Shopping</a>
+        </div>
+    </header>
+
+    <!-- Categories Section -->
+    <section class="py-5">
+        <div class="container text-center mb-4">
+            <h2 class="fw-bold">Popular Categories</h2>
+        </div>
+
+        <div class="container">
+            <div class="row g-4">
+
+                <div class="col-md-4">
+                    <div class="card p-3 material-card h-100">
+                        <h5>Electronics</h5>
+                        <p>Latest gadgets and devices.</p>
+                        <a href="products.html" class="small">Explore →</a>
+                    </div>
+                </div>
+
+                <div class="col-md-4">
+                    <div class="card p-3 material-card h-100">
+                        <h5>Fashion</h5>
+                        <p>Modern styles for everyone.</p>
+                        <a href="products.html" class="small">Explore →</a>
+                    </div>
+                </div>
+
+                <div class="col-md-4">
+                    <div class="card p-3 material-card h-100">
+                        <h5>Home & Living</h5>
+                        <p>Upgrade your lifestyle.</p>
+                        <a href="products.html" class="small">Explore →</a>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="text-center py-3 bg-light mt-5">
+        <p class="mb-0">© 2025 ShopHome. All rights reserved.</p>
+    </footer>
+
+    <!-- Scripts -->
+    <script src="app.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+
+</body>
+</html>

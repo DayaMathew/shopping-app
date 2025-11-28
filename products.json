@@ -1,0 +1,84 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Wireless Headphones",
+            "details": "Premium sound quality with active noise cancellation and 30-hour battery life",
+            "price": 79.99,
+            "image": "images/wireless-headphones.jpg",
+            "category": "Electronics"
+        },
+        {
+            "id": 2,
+            "name": "Smart Watch",
+            "details": "Feature-rich smartwatch with health tracking, heart rate monitor, and GPS",
+            "price": 199.99,
+            "image": "images/smart-watch.jpeg",
+            "category": "Electronics"
+        },
+        {
+            "id": 3,
+            "name": "USB-C Cable",
+            "details": "Durable USB-C charging cable with fast charging support",
+            "price": 14.99,
+            "image": "images/usb-cable.jpeg",
+            "category": "Electronics"
+        },
+        {
+            "id": 4,
+            "name": "Wireless Mouse",
+            "details": "Ergonomic design with precision tracking and 12-month battery",
+            "price": 29.99,
+            "image": "images/wireless-mouse.jpeg",
+            "category": "Electronics"
+        },
+        {
+            "id": 5,
+            "name": "Portable Charger",
+            "details": "20000mAh power bank with dual USB ports and fast charging",
+            "price": 39.99,
+            "image": "https://via.placeholder.com/300x200?text=Portable+Charger",
+            "category": "Electronics"
+        },
+        {
+            "id": 6,
+            "name": "Bluetooth Speaker",
+            "details": "Waterproof speaker with 360-degree sound and 12-hour battery",
+            "price": 49.99,
+            "image": "https://via.placeholder.com/300x200?text=Bluetooth+Speaker",
+            "category": "Electronics"
+        },
+        {
+            "id": 7,
+            "name": "Phone Stand",
+            "details": "Adjustable phone holder for desk with non-slip pads",
+            "price": 12.99,
+            "image": "https://via.placeholder.com/300x200?text=Phone+Stand",
+            "category": "Accessories"
+        },
+        {
+            "id": 8,
+            "name": "Screen Protector",
+            "details": "Tempered glass screen protector for most smartphones",
+            "price": 9.99,
+            "image": "https://via.placeholder.com/300x200?text=Screen+Protector",
+            "category": "Accessories"
+        },
+        {
+            "id": 9,
+            "name": "USB Hub",
+            "details": "7-port USB 3.0 hub with individual switches and power adapter",
+            "price": 34.99,
+            "image": "https://via.placeholder.com/300x200?text=USB+Hub",
+            "category": "Electronics"
+        },
+        {
+            "id": 10,
+            "name": "Laptop Stand",
+            "details": "Aluminum adjustable laptop stand for better ergonomics",
+            "price": 44.99,
+            "image": "https://via.placeholder.com/300x200?text=Laptop+Stand",
+            "category": "Accessories"
+        }
+    ]
+}
